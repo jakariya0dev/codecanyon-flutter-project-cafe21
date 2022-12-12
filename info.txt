@@ -1,0 +1,30 @@
+Name:
+Cafe21 | Online Restaurant Management Mobile App with Firebase and Bluetooth POS Printer
+
+Demo link:
+Demo video link: https://youtu.be/pTmSQlxBnp4
+
+
+Dear team,
+We hope that you are doing well and good. This is our company’s first product to be available on this platform and we hope that everything will be good to go. If you have any queries then please let us know. We will be happy to hear from you. Hoping for a positive response.
+Best Regards,
+{Your Company Name}
+
+Cafe21 App Features:
+Restaurant and Cafe Management System
+Role-Based App Management
+Google Firebase Authentication
+Clean Code &  MVC Pattern
+Organized Code
+Easy to Customize
+Working fine with bright and dark mode.
+Android  Bluetooth POS Printer
+Firebase Cloud Database Integration
+Admin and User Login-Registration System
+Details Orders Management
+Role-Based User Profile
+Dalily, Weekly and Monthly Sells History
+Help & Supports
+Account Settings
+
+iOS and Desktop Support will added Update Version
